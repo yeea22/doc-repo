@@ -1,6 +1,6 @@
 # Shared doc-repo
 
-Some shared description
+Some shared descriptiom
 
 ## More doc-repo
 
