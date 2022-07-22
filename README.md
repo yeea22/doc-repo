@@ -1,3 +1,3 @@
-# Shared
+# Shared doc-repo
 
-Some shared code
+Some shared description
